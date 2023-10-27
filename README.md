@@ -52,7 +52,7 @@
   npm run predeploy
   ```
 
-- Сборка проекта из ветки `develop` и его деплой на GH Pages:
+- Сборка проекта и его деплой на GH Pages:
 
   ```bash
   npm run deploy
